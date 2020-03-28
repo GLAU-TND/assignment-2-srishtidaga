@@ -44,7 +44,6 @@ public class Node {
         return this.getData().toString();
     }
 
-
-        }
+}
 
 
