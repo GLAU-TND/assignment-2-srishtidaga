@@ -38,4 +38,8 @@ public class Node {
         this.data = data;
         this.next = next;
     }
+    @Override
+    public String toString() {
+        return this.getData().toString();
+    }
 }
